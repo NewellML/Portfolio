@@ -68,7 +68,7 @@ li {
     width: 20%;
     margin: 3rem;
     top: -20px;
-    right: -1500px;
+    right: -px;
     padding: 20px;
     
     
@@ -89,6 +89,7 @@ li {
     border-color: #4CB1F7;
     border-style: solid;
     background-color: #414141;
+    font-family: 'Be Vietnam', sans-serif;
 }
 
 .yellow-box {
