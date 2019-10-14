@@ -92,6 +92,23 @@ li {
     font-family: 'Be Vietnam', sans-serif;
 }
 
+.pbox {
+    position: relative;
+    width: 50%;
+    margin: 1rem;
+    padding: 2rem;
+    color: #FFF;
+    font-size: .9rem;
+    font-weight: bold;
+    text-align: left;
+    border-width: 10px;
+    border-radius: 30px;
+    border-color: #4CB1F7;
+    border-style: dotted;
+    background-color: #414141;
+    font-family: 'Be Vietnam', sans-serif;
+}
+
 .yellow-box {
     position: absolute;
     width: 8%;
