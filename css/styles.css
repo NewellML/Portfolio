@@ -159,3 +159,21 @@ iframe {
     width: 650px;
 }
 
+.flex-container{
+    display:flex;
+    flex-flow:row nowrap;
+    flex-direction:row;
+    justify-content:space-evenly;
+    border:5px solid #42352c;
+}
+.child1{
+    flex-basis:10%;
+    padding:1rem;
+    height:10%;
+}
+.child2{
+    flex-basis:20%;
+    padding:1rem;
+    height:10%;
+    margin: .5%;
+}
