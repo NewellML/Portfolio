@@ -27,6 +27,8 @@ void setup() {
 void draw() {
   int m=millis();
   background(32, 3, 148);
+  textSize(100);
+  text("Happy Holidays!",0,-50);
   w.show();
   guy.show();
   translate(140,-100,0);
